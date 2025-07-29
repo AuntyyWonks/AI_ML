@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Maize",
+    "temperature_range": [18, 27],
+    "rainfall_range": [450, 800],
+    "soil_ph_range": [5.5, 7.0],
+    "soil_types": ["loamy", "clay loam"],
+    "season": "summer",
+    "tips": "Ensure full sun and avoid waterlogging."
+  },
+  {
+    "name": "Spinach",
+    "temperature_range": [10, 24],
+    "rainfall_range": [300, 500],
+    "soil_ph_range": [6.0, 7.5],
+    "soil_types": ["loamy", "sandy loam"],
+    "season": "autumn",
+    "tips": "Prefers cooler climates and partial shade."
+  },
+  {
+    "name": "Cabbage",
+    "temperature_range": [15, 24],
+    "rainfall_range": [500, 1000],
+    "soil_ph_range": [6.0, 7.5],
+    "soil_types": ["clay", "loamy"],
+    "season": "winter",
+    "tips": "Grows well in moist, fertile soils."
+  },
+  {
+    "name": "Sorghum",
+    "temperature_range": [25, 32],
+    "rainfall_range": [400, 600],
+    "soil_ph_range": [5.0, 8.5],
+    "soil_types": ["sandy loam", "loamy"],
+    "season": "spring",
+    "tips": "Drought-resistant, ideal for semi-arid areas."
+  },
+  {
+    "name": "Green Beans",
+    "temperature_range": [15, 27],
+    "rainfall_range": [400, 600],
+    "soil_ph_range": [6.0, 6.8],
+    "soil_types": ["loamy", "sandy loam"],
+    "season": "spring",
+    "tips": "Avoid planting in cold or waterlogged soil."
+  },
+  {
+    "name": "Sweet Potatoes",
+    "temperature_range": [21, 29],
+    "rainfall_range": [500, 1000],
+    "soil_ph_range": [5.5, 6.5],
+    "soil_types": ["sandy", "sandy loam"],
+    "season": "summer",
+    "tips": "Needs warm weather and loose, well-drained soil."
+  }
+]
