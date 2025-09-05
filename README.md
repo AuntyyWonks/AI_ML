@@ -1,10 +1,10 @@
-# AI_ML - Intelligent Crop Recommendation System
+# MyOasis
 
-A comprehensive agricultural intelligence platform that combines machine learning, natural language processing, and web technologies to provide personalized crop recommendations and agricultural guidance.
+This project is one closest to my heart. It's currently a work in progress but is basically a tool that is being develpoed to bridge tech and agriculture for young kids. It is a  comprehensive agricultural intelligence platform that combines machine learning, natural language processing, and web technologies to provide personalized crop recommendations and agricultural guidance.
 
 ## Project Overview
 
-This project is an AI-powered agricultural assistant designed to help farmers and agricultural enthusiasts make informed decisions about crop selection based on environmental conditions. The system provides intelligent crop recommendations and features an interactive chatbot for agricultural queries.
+This project is an AI-powered agricultural assistant designed to help young-mind farmers and agricultural enthusiasts make informed decisions about crop selection based on environmental conditions. The system provides intelligent crop recommendations and features an interactive chatbot for agricultural queries.
 
 ## Key Features
 
